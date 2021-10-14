@@ -1,6 +1,6 @@
 # Cooperative Sequence Clustering and Decoding for DNA Storage System with Fountain Codes
 
-Here, codes and data files used for my DNA storage study is stored.
+Here, codes and data files used for my DNA storage study is stored. My study was published in https://doi.org/10.1093/bioinformatics/btab246 (Jeong, Jaeho, et al. "Cooperative sequence clustering and decoding for DNA storage system with fountain codes." Bioinformatics 37.19 (2021): 3136-3143.) and the result is accessible online.
 
 ## Encoding
 To encode data, you may use LT_code.m in the encoder directory. This is a Matlab file, and we used MATLAB R2019a for this study.
